@@ -9,6 +9,6 @@ entries:
     name: mychart
     type: application
     urls:
-    - https://github.com/xujingbo/helm-chart/mychart-0.1.0.tgz
+    - https://github.com/xujingbo/helm-chart/blob/master/mychart-0.1.0.tgz
     version: 0.1.0
 generated: "2021-03-27T08:48:20.208501734+01:00"
